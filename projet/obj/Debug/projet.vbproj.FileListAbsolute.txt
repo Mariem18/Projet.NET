@@ -1,0 +1,23 @@
+C:\Users\hp\source\repos\projet\projet\obj\Debug\projet.Form1.resources
+C:\Users\hp\source\repos\projet\projet\obj\Debug\projet.Resources.resources
+C:\Users\hp\source\repos\projet\projet\obj\Debug\projet.vbproj.GenerateResource.cache
+C:\Users\hp\source\repos\projet\projet\obj\Debug\projet.vbproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\projet\projet\obj\Debug\projet.exe
+C:\Users\hp\source\repos\projet\projet\obj\Debug\projet.xml
+C:\Users\hp\source\repos\projet\projet\obj\Debug\projet.pdb
+C:\Users\hp\source\repos\projet\projet\obj\Debug\projet.Form2.resources
+C:\Users\hp\Desktop\projet vb\projet.exe.config
+C:\Users\hp\Desktop\projet vb\projet.exe
+C:\Users\hp\Desktop\projet vb\projet.pdb
+C:\Users\hp\Desktop\projet vb\projet.xml
+C:\Users\hp\source\repos\projet\projet\projet.exe.config
+C:\Users\hp\source\repos\projet\projet\projet.exe
+C:\Users\hp\source\repos\projet\projet\projet.pdb
+C:\Users\hp\source\repos\projet\projet\projet.xml
+C:\Users\hp\source\repos\projet\projet\obj\Debug\projet.menu.resources
+C:\Users\hp\source\repos\projet\projet\obj\Debug\projet.ajouter.resources
+C:\Users\hp\source\repos\projet\projet\obj\Debug\projet.commande.resources
+C:\Users\hp\source\repos\projet\projet\obj\Debug\projet.modifier.resources
+C:\Users\hp\source\repos\projet\projet\obj\Debug\projet.supprimer.resources
+C:\Users\hp\source\repos\projet\projet\obj\Debug\projet.Form3.resources
+C:\Users\hp\source\repos\projet\projet\obj\Debug\projet.vbprojAssemblyReference.cache
